@@ -22,7 +22,7 @@
     border: 2px solid yellow;
     text-align: center;
   }
-  #c1{
+  #c1:hover{
     background: lime;
     box-shadow: 0px 0px 5px white;
     border-radius: 50% 50% 50% 50%;
@@ -61,7 +61,7 @@
     box-shadow: -30px 50px 5px rgb(255, 0, 34);
     border-radius: 10px 10px  60%  ;
   }
-  #c8{
+  #c10{
     background-color: rgb(226, 74, 168);
     box-shadow: 30px 50px 5px rgb(0, 106, 255);
     border-radius: 10px 10px  10px  ;
